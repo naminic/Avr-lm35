@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:45165539
+NODE:I LEVEL:0 LINE:9 "C:\CodeVisionAVR\inc\mega32.h"
+NODE:I LEVEL:0 LINE:10 "C:\CodeVisionAVR\inc\delay.h"
+NODE:I LEVEL:0 LINE:11 "C:\CodeVisionAVR\inc\alcd.h"
+NODE:I LEVEL:0 LINE:12 "C:\CodeVisionAVR\inc\stdio.h"
+NODE:I LEVEL:0 LINE:13 "C:\CodeVisionAVR\inc\stdlib.h"
+NODE:V LEVEL:0 LINE:15 "adc_data -> RAM:????"
+NODE:V LEVEL:0 LINE:16 "init_temp -> RAM:????"
+NODE:V LEVEL:0 LINE:16 "lcd_temp -> RAM:????"
+NODE:M LEVEL:0 LINE:18 "ADC_VREF_TYPE"
+NODE:F LEVEL:0 LINE:21 "adc_isr(void)"
+NODE:F LEVEL:0 LINE:27 "main(void)"
